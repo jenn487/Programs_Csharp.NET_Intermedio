@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\bin\Debug\net8.0\Practica SRP.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\bin\Debug\net8.0\Practica SRP.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\bin\Debug\net8.0\Practica SRP.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\bin\Debug\net8.0\Practica SRP.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\bin\Debug\net8.0\Practica SRP.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\obj\Debug\net8.0\Practica SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\obj\Debug\net8.0\Practica SRP.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\obj\Debug\net8.0\Practica SRP.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\obj\Debug\net8.0\Practica SRP.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\obj\Debug\net8.0\Practica SRP.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\obj\Debug\net8.0\refint\Practica SRP.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\obj\Debug\net8.0\Practica SRP.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\obj\Debug\net8.0\Practica SRP.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica SRP\obj\Debug\net8.0\ref\Practica SRP.dll
