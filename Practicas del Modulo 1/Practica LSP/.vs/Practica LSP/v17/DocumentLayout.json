@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica LSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F12693-29E1-4F55-9DC4-FEAC135F6B5D}|Practica LSP.csproj|c:\\users\\user\\documents\\visual studio 2022\\projects\\practicas del modulo 1\\practica lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F12693-29E1-4F55-9DC4-FEAC135F6B5D}|Practica LSP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F12693-29E1-4F55-9DC4-FEAC135F6B5D}|Practica LSP.csproj|c:\\users\\user\\documents\\visual studio 2022\\projects\\practicas del modulo 1\\practica lsp\\cumplimientolsp\\rectangulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F12693-29E1-4F55-9DC4-FEAC135F6B5D}|Practica LSP.csproj|solutionrelative:cumplimientolsp\\rectangulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F12693-29E1-4F55-9DC4-FEAC135F6B5D}|Practica LSP.csproj|c:\\users\\user\\documents\\visual studio 2022\\projects\\practicas del modulo 1\\practica lsp\\cumplimientolsp\\figurasgeometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F12693-29E1-4F55-9DC4-FEAC135F6B5D}|Practica LSP.csproj|solutionrelative:cumplimientolsp\\figurasgeometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F12693-29E1-4F55-9DC4-FEAC135F6B5D}|Practica LSP.csproj|c:\\users\\user\\documents\\visual studio 2022\\projects\\practicas del modulo 1\\practica lsp\\cumplimientolsp\\cuadrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F12693-29E1-4F55-9DC4-FEAC135F6B5D}|Practica LSP.csproj|solutionrelative:cumplimientolsp\\cuadrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F12693-29E1-4F55-9DC4-FEAC135F6B5D}|Practica LSP.csproj|c:\\users\\user\\documents\\visual studio 2022\\projects\\practicas del modulo 1\\practica lsp\\violacionlsp\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F12693-29E1-4F55-9DC4-FEAC135F6B5D}|Practica LSP.csproj|solutionrelative:violacionlsp\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica LSP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica LSP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:24:58.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuadrados.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica LSP\\CumplimientoLSP\\Cuadrados.cs",
+              "RelativeDocumentMoniker": "CumplimientoLSP\\Cuadrados.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica LSP\\CumplimientoLSP\\Cuadrados.cs",
+              "RelativeToolTip": "CumplimientoLSP\\Cuadrados.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:26:15.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangulos.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica LSP\\CumplimientoLSP\\Rectangulos.cs",
+              "RelativeDocumentMoniker": "CumplimientoLSP\\Rectangulos.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica LSP\\CumplimientoLSP\\Rectangulos.cs",
+              "RelativeToolTip": "CumplimientoLSP\\Rectangulos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:25:48.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FigurasGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica LSP\\CumplimientoLSP\\FigurasGeometrica.cs",
+              "RelativeDocumentMoniker": "CumplimientoLSP\\FigurasGeometrica.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica LSP\\CumplimientoLSP\\FigurasGeometrica.cs",
+              "RelativeToolTip": "CumplimientoLSP\\FigurasGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:24:04.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica LSP\\ViolacionLSP\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "ViolacionLSP\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica LSP\\ViolacionLSP\\Cuadrado.cs",
+              "RelativeToolTip": "ViolacionLSP\\Cuadrado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:11:42.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

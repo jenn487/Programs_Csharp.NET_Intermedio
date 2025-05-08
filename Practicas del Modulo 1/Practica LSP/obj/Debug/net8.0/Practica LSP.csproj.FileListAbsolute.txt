@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\bin\Debug\net8.0\Practica LSP.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\bin\Debug\net8.0\Practica LSP.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\bin\Debug\net8.0\Practica LSP.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\bin\Debug\net8.0\Practica LSP.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\bin\Debug\net8.0\Practica LSP.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\obj\Debug\net8.0\Practica LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\obj\Debug\net8.0\Practica LSP.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\obj\Debug\net8.0\Practica LSP.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\obj\Debug\net8.0\Practica LSP.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\obj\Debug\net8.0\Practica LSP.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\obj\Debug\net8.0\refint\Practica LSP.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\obj\Debug\net8.0\Practica LSP.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\obj\Debug\net8.0\Practica LSP.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica LSP\obj\Debug\net8.0\ref\Practica LSP.dll
