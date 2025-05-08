@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\bin\Debug\net8.0\Practica ISP.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\bin\Debug\net8.0\Practica ISP.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\bin\Debug\net8.0\Practica ISP.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\bin\Debug\net8.0\Practica ISP.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\bin\Debug\net8.0\Practica ISP.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\obj\Debug\net8.0\Practica ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\obj\Debug\net8.0\Practica ISP.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\obj\Debug\net8.0\Practica ISP.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\obj\Debug\net8.0\Practica ISP.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\obj\Debug\net8.0\Practica ISP.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\obj\Debug\net8.0\refint\Practica ISP.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\obj\Debug\net8.0\Practica ISP.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\obj\Debug\net8.0\Practica ISP.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica ISP\obj\Debug\net8.0\ref\Practica ISP.dll

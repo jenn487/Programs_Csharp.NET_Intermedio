@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica ISP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2296D99-E2EB-4A60-832B-2F616DD354DB}|Practica ISP.csproj|c:\\users\\user\\documents\\visual studio 2022\\projects\\practicas del modulo 1\\practica isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2296D99-E2EB-4A60-832B-2F616DD354DB}|Practica ISP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica ISP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Projects\\Practicas del Modulo 1\\Practica ISP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:36:31.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
