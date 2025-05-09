@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\bin\Debug\net8.0\Practica DIP.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\bin\Debug\net8.0\Practica DIP.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\bin\Debug\net8.0\Practica DIP.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\bin\Debug\net8.0\Practica DIP.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\bin\Debug\net8.0\Practica DIP.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\obj\Debug\net8.0\Practica DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\obj\Debug\net8.0\Practica DIP.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\obj\Debug\net8.0\Practica DIP.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\obj\Debug\net8.0\Practica DIP.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\obj\Debug\net8.0\Practica DIP.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\obj\Debug\net8.0\refint\Practica DIP.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\obj\Debug\net8.0\Practica DIP.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\obj\Debug\net8.0\Practica DIP.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\Practica DIP\obj\Debug\net8.0\ref\Practica DIP.dll
